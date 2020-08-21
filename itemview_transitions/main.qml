@@ -69,8 +69,8 @@ Window {
         visible: true
         anchors.fill: parent
         plugin: mapPlugin
-        center: QtPositioning.coordinate(59.91, 10.75) // Oslo
-        zoomLevel: 9.5
+        center: QtPositioning.coordinate(36.45, 120.65) // Spring Town, Tsingtao, China
+        zoomLevel: 10
 
         onMapReadyChanged: miv.model = osloListModel
 

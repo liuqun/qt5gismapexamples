@@ -272,9 +272,9 @@ Map {
 //! [coord]
     zoomLevel: (maximumZoomLevel - minimumZoomLevel)/2
     center {
-        // The Qt Company in Oslo
-        latitude: 59.9485
-        longitude: 10.7686
+        // Spring Town, Tsingtao, China
+        latitude: 36.45
+        longitude: 120.65
     }
 //! [coord]
 
